@@ -1,1 +1,1 @@
-# Learn You Node Exercies
+# Learn You Node Exercises
