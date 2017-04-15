@@ -1,0 +1,14 @@
+{
+    "name": "learn-you-node",
+    "preferGlobal": true,
+    "version": "0.0.1",
+    "author": "Uzair Jawed <s.uzairjawed@gmail.com>",
+    "description": "Learn you node",
+    "license": "MIT",
+    "engines": {
+        "node": ">=0.10"
+    },
+    "dependencies": {
+        "bl": "~1.2.0"
+    }
+}
